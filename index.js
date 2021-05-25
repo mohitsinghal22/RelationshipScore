@@ -9,7 +9,7 @@ var questions = [{
   answer: "Delhi",
 },{
   question: "How many siblings do I have?One/Two? : ",
-  answer: "One",
+  answer: "Two",
 },{
   question:"What is my favourite sport? : ",
   answer: "Cricket",
